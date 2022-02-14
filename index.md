@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CS-499 Computer Science Capstone
 
 You can use the [editor on GitHub](https://github.com/jcarter0149/jcarter.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

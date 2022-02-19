@@ -1,5 +1,10 @@
-## CS-499 Computer Science Capstone
+# CS-499 Computer Science Capstone
 
+##Code Review
+Below is the link to my code review of the original artifact where I describe and critically analyze existing code and discuss in detail my plans for enhancement. 
+https://youtu.be/adWsPYzpNsw
+
+##Animal Shelter Enhancements
   The artifact I decided to use for my capstone is from CS-340, Advance Programming Concepts.  The artifact is for animal management for an animal shelter, which is why I decided to name the application Animal Shelter.  Animal Shelter is written in python, has basic CRUD operations and also a dashboard with several different charts to help the user quickly ingest data. I decided to create a full stack application using this artifact in order to meet the enhancement requirements of Software Design/Engineering, Algorithms and Data Structures, and Databases. 
   I chose this artifact because I remember completing it in CS-340 and being very frustrated with how the code was laid out and the fact we were using Jupyter Notebook for the user interface (UI).  I knew I could take the artifact and rewrite it in C# and deliver a technically sound application that demonstrated my ability to implement a solution that met the customer’s needs and accomplished industry-specific goals.
   I designed, developed, and delivered professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts by completing an entity relationship (ER) diagram. Creating the ER diagram will help other developers be able to quickly pick-up on how the data is connected and how it can be queried.  Breaking the data up from a flat table to multiple tables help make a logical path to create, read, update and delete data.  It will also help to only pull the data you need, which could speed up query and processing times.  Normally, the ER diagram would be used internally on the development team, however, if the customer has a data analyst or a more technical person, I would use the ER diagram to show how we are representing the data to make sure we are getting the relationships correct.  

@@ -2,7 +2,7 @@
 
 ## Code Review
 Below is the link to my code review of the original artifact where I describe and critically analyze existing code and discuss in detail my plans for enhancement. 
-[Link](https://youtu.be/t4KNdv5LVY8)
+[Code Review](https://youtu.be/t4KNdv5LVY8)
 
 ## Animal Shelter Enhancements
   The artifact I decided to use for my capstone is from CS-340, Advance Programming Concepts.  The artifact is for animal management for an animal shelter, which is why I decided to name the application Animal Shelter.  Animal Shelter is written in python, has basic CRUD operations and also a dashboard with several different charts to help the user quickly ingest data. I decided to create a full stack application using this artifact in order to meet the enhancement requirements of Software Design/Engineering, Algorithms and Data Structures, and Databases. 
